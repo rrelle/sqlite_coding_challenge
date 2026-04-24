@@ -31,5 +31,5 @@ Ranked cities based on the number of Gold-level loyalty customers.
 - `challenge.sql` → Contains all SQL queries for the tasks
 - `INSIGHTS.md` → Summary of findings and observations
 
-## Notes
-All queries were tested using the SQLite extension in VS Code, and results were verified by checking calculations, grouping, and sorting.
+## What I learned 
+Learned how to write SQL queries to retrieve and analyze data. Improved my ability to filter data using WHERE conditions and use aggregate functions like SUM and AVG. Gained experience grouping data to identify patterns and trends. Developed a better understanding of how databases are used in real-world business decision-makingAll queries were tested using the SQLite extension in VS Code, and results were verified by checking calculations, grouping, and sorting.
